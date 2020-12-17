@@ -1,0 +1,16 @@
+{
+  "name": "webhook",
+  "version": "1.0.0",
+  "description": "KweeksNews Webhook Handlers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write \"**/*.{js,css,json,md}\""
+  },
+  "author": "KweeksDev <admin@kweeksnews.com>",
+  "license": "GPL-3.0-or-later",
+  "private": true,
+  "devDependencies": {
+    "prettier": "^1.17.0"
+  }
+}

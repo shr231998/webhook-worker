@@ -1,0 +1,8 @@
+name = "webhook"
+type = "webpack"
+account_id = "aa6a672906a96132f0ffdc582c69537a"
+zone_id = "f14939370d152d28d026295478d20daa"
+route = "webhook.kweeksnews.com/*"
+kv_namespaces = [
+  { binding = "webhook_kv", id = "1ea0b7b9a160445b905f6bbc23802013" }
+]
